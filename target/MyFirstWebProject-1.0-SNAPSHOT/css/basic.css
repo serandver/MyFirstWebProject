@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body {
+    margin: 0 auto;
+    width: 500px;
+    background-color: #EEEEEE;
+}
+
+p.large {
+    font-size: 20px;
+}
+
+p.small {
+    font-size: 15px;
+}
+
+p#displayName {
+    display: none;
+}
